@@ -1,2 +1,2 @@
-# react-atmic
+# react-atoms
 Created with CodeSandbox
